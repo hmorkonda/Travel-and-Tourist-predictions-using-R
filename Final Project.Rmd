@@ -1,6 +1,6 @@
 ---
 title: "Project Tips and Outline"
-author: "Prajakta Andhale"
+author: "Harinee Morkonda"
 output: html_document
 ---
 
